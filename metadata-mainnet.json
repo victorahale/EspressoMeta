@@ -1,0 +1,20 @@
+{
+  "pub_key": "BLS_VER_KEY~90ziEOJ6BQ-9MYRxVzz-_koFzlJHKfUcHRgmg77QtQTBu3tX5mTCdw78HVTUOmdXG-7oqlCXVlA12VS5WIMcAmxLAWsN0XjKrrUyogN-9WpKqPsSahFpoQCdi6Tgh9EHhHCpDbscOQgyMzo0hVJprLovx3nh65i5dq8HX9fQMAuM",
+  "name": "Noddex",
+  "description": "Reliable Validators. Scalable Infrastructure.",
+  "company_name": "Noddex",
+  "company_website": "https://noddex.com",
+  "client_version": "v1.0.0",
+  "icon": {
+    "14x14": {
+    "@1x": "https://raw.githubusercontent.com/victorahale/EspressoMeta/refs/heads/main/14.png",
+    "@2x": "https://raw.githubusercontent.com/victorahale/EspressoMeta/refs/heads/main/28.png",
+    "@3x": "https://raw.githubusercontent.com/victorahale/EspressoMeta/refs/heads/main/42.png"
+    },
+  "24x24": {
+    "@1x": "https://raw.githubusercontent.com/victorahale/EspressoMeta/refs/heads/main/24.png",
+    "@2x": "https://raw.githubusercontent.com/victorahale/EspressoMeta/refs/heads/main/48.png",
+    "@3x": "https://raw.githubusercontent.com/victorahale/EspressoMeta/refs/heads/main/72.png"
+    }
+  }
+}
